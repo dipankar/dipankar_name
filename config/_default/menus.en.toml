@@ -16,24 +16,19 @@
   weight = 10
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Startups"
+  pageRef = "startups"
   weight = 20
+
+[[main]]
+  name = "Experience"
+  pageRef = "experience"
+  weight = 35
 
 [[main]]
   name = "Research"
   pageRef = "research"
   weight = 30
-
-[[main]]
-  name = "Work"
-  pageRef = "work"
-  weight = 35
-
-[[main]]
-  name = "Resume"
-  pageRef = "resume"
-  weight = 40
 
 [[main]]
   name = "Blog"

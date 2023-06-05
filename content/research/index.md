@@ -13,7 +13,7 @@ showTableOfContents: true
 showPagination: false
 ---
 
-Passionate researcher in the field of Machine learning, Cryptography and Distributed Systems. An experienced entrepreneur who has previously raised money from venture capitalists with a deep understanding of various internet verticals. Author of a book on Nginx, the world's most popular web server. Published a paper on Federated Learning at IJCAI in 2020 and assisted with filing over 60 provisional patents in augmented reality, virtual reality, image processing, messaging and cryptography.
+Passionate researcher in the field of Machine learning, Cryptography and Distributed Systems. Author of a book on Nginx, the world's most popular web server. Published a paper on Federated Learning at IJCAI in 2020 and assisted with filing over 60 provisional patents in augmented reality, virtual reality, image processing, messaging and cryptography.
 
 ## Publications 
 
@@ -34,11 +34,14 @@ accuracy in federated learning,” arXiv, 2020.
 * **D. Sarkar**, “Muzzled: A graphical theme builder for mozilla,” Linux Gazette, vol. 119, 2005
 
 ## Associations & affiliations
-
-*  Eta Kappa Nu - Engineering honor society of IEEE, for excellent academic performance (2021).
+* ACM member 
+* IEEE member 
 
 ## Awards and Achievements
-*  Top 100 ICSE students, Among the top students in Kolkata (2005).
+
+*  Eta Kappa Nu - Engineering honor society of IEEE, for excellent academic performance (2021).
+*  My B.Tech thesis (Unusual human activity) was awarded the best project at IIT Delhi's Open House (2009).
+*  Top 100 ICSE students, Among the top students in Kolkata, India (2005).
 
 ## Education
 
