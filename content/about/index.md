@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About me"
 date: 2023-06-04
 draft: false
 description: "Proven technologist and entrepreneur with expertise in blockchain, machine learning, and web-scale architecture. Known for strategic innovation in technology and business-first, system-oriented strategies. Successful history at Nykaa, Hike, and Boom Protocol. Extensive academic achievements from Arizona State University and the Indian Institute of Technology, Delhi."

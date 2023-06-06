@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research experience"
 date: 2023-06-04
 description: "Renowned researcher and author D. Sarkar has made numerous contributions to machine learning, cryptography, and distributed systems. An expert in federated learning and Nginx web server technology, Sarkar has penned multiple papers and books, published internationally recognized research, and filed provisional patents. Sarkar is a prominent member of ACM and IEEE, and has garnered several awards for academic and project excellence."
 summary: "D. Sarkar is a proficient researcher in machine learning, cryptography, and distributed systems, with numerous publications and patents to his name. With a book on Nginx web server under his belt, Sarkar's research papers span across federated learning and continuous optimization. Sarkar holds a Masters from Arizona State University in Computer Science with a specialisation in Cyber-Security and a B.Tech from the Indian Institute of Technology. Notable achievements include being awarded for the best project at IIT Delhi's Open House and an excellent academic performance by Eta Kappa Nu - the engineering honor society of IEEE."

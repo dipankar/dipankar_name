@@ -1,5 +1,5 @@
 ---
-title: "Writings"
+title: "My writings"
 description: "These are the writing of Dipankar Sarkar"
 cascade:
   showDate: false

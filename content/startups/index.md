@@ -1,5 +1,5 @@
 ---
-title: "Startups"
+title: "Startup experience"
 date: 2023-06-04
 description: "An experienced entrepreneur with an impressive track record in the technology sector, including the co-founding of five start-ups and serving as an advisor and investor to two companies. The entrepreneur has made significant contributions to various sectors including blockchain, machine learning, interactive platforms, microblogging, and food delivery. Their start-ups have gained substantial traction, from investor funding to media attention and user engagement. Their work has also been recognized by notable programs such as the Westerwelle Young Founders Programme and the Startup Leadership Program."
 tags: ["Entrepreneur", "Co-founder", "Technology Start-ups", "Blockchain", "Machine Learning", "Microblogging", "Interactive Platforms", "Advisor", "Investor", "Awards", "Financial Inclusion", "Web2.0", "Mobile Applications", "Cloud Kitchens", "Start-up Ecosystem", "Business Strategy", "Funding", "Venture Capital", "Start-up Leadership", "Westerwelle Young Founders Programme", "Financial Inclusion Lab", "Startup Leadership Program", "Bharat Inclusion Initiative", "API Development", "Cloud Infrastructure"]

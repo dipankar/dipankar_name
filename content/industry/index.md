@@ -1,5 +1,5 @@
 ---
-title: "Industry"
+title: "Industry experience"
 date: 2023-06-04
 description: "A seasoned technology expert with over 14 years of experience, deep technical understanding and a track record of building and leading diverse teams. Proficient in transforming legacy systems into profitable ventures. The record boasts of key achievements such as rolling out a social e-commerce & AdTech platform, scaling a technology and Data science consulting business, and filing numerous patents. The individual has consulted for several prestigious companies and served in various engineering roles."
 summary: "This is a detailed professional portfolio of an individual with more than 14 years in the tech industry. Their accomplishments span across driving multimillion-dollar businesses, scaling consulting operations, filing patents, and publishing machine learning research. The individual has a robust consulting history, working with top companies across India in different capacities. In addition, they have a substantial employment background in senior engineering roles. The individual's experience is further broadened by their participation in numerous internships."
