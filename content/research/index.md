@@ -32,7 +32,7 @@ Conjunction with IJCAI 2020 (FL-IJCAI’20), 2020.  doi: 10.48550/ARXIV.2011.06
 accuracy in federated learning,” arXiv, 2020. 
 
 {{< alert >}}
-You can find me on Google scholar as well.
+You can find me on <a href="https://scholar.google.com/citations?user=t_ikr2UAAAAJ&hl=en">Google scholar</a> and <a href="https://orcid.org/0000-0001-5431-6367">ORCID</a> as well. 
 {{< /alert >}}
 
 
