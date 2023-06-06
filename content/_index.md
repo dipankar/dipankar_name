@@ -6,5 +6,5 @@ keywords: ["Entrepreneur", "Co-founder", "Researcher", "Machine Learning", "Cryp
 A seasoned technologist and entrepreneur, I bring extensive experience in cutting-edge fields including blockchain, machine learning, and web-scale architecture. My career is characterized by relentless innovation, strategic thinking, and the ability to quickly adapt to new technological trends. 
 
 {{< button href="/about/" >}}
-Learn more
+About me
 {{< /button >}}
