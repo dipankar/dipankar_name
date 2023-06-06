@@ -15,6 +15,10 @@ showPagination: false
 
 Passionate researcher in the field of Machine learning, Cryptography and Distributed Systems. Author of a book on Nginx, the world's most popular web server. Published a paper on Federated Learning at IJCAI in 2020 and assisted with filing over 60 provisional patents in augmented reality, virtual reality, image processing, messaging and cryptography.
 
+{{< button href="Academic-CV.pdf">}}
+Download Academic CV
+{{< /button >}}
+
 ## Publications 
 
 * N. Kumar, S. Goel, A. Narang, et al., “One shot audio to animated video generation,” arXiv, 2021.  doi:
@@ -26,6 +30,10 @@ learning,” Accepted for the Workshop on Federated Learning for Data Privacy an
 Conjunction with IJCAI 2020 (FL-IJCAI’20), 2020.  doi: 10.48550/ARXIV.2011.06283.
 * **D. Sarkar**, S. Rai, and A. Narang, “Catfedavg: Optimising communication-efficiency and classification
 accuracy in federated learning,” arXiv, 2020. 
+
+{{< alert >}}
+You can find me on Google scholar as well.
+{{< /alert >}}
 
 
 ## Books & Articles

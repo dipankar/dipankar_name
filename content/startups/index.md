@@ -15,7 +15,11 @@ showPagination: false
 
 ## Founder
 
-* (2022) Boom Labs (Shutdown) - London, UK
+* (2021-2022) Boom Labs (Shutdown) - London, UK
+  * We were building a multi-chain API to bring Web2 and mobile applications on-chain.
+  * We developed an MPC wallet along with a high-scale cloud infrastructure.
+  * Got commitments of over 2.5M$ from investors pre-product.
+  * Had letter of intents in place from publicly listed companies and large startups
 * (2017-2019) ExpressMOJO (Shutdown) - New Delhi, India
 * (2013-2016) Octo.ai (Shutdown) - New Delhi, India
    * Raised seed funding from well known angels!
