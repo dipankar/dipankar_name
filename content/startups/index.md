@@ -1,8 +1,8 @@
 ---
 title: "Startups"
 date: 2023-06-04
-description: "Startups"
-tags: ["Dipankar","Sarkar"]
+description: "An experienced entrepreneur with an impressive track record in the technology sector, including the co-founding of five start-ups and serving as an advisor and investor to two companies. The entrepreneur has made significant contributions to various sectors including blockchain, machine learning, interactive platforms, microblogging, and food delivery. Their start-ups have gained substantial traction, from investor funding to media attention and user engagement. Their work has also been recognized by notable programs such as the Westerwelle Young Founders Programme and the Startup Leadership Program."
+tags: ["Entrepreneur", "Co-founder", "Technology Start-ups", "Blockchain", "Machine Learning", "Microblogging", "Interactive Platforms", "Advisor", "Investor", "Awards", "Financial Inclusion", "Web2.0", "Mobile Applications", "Cloud Kitchens", "Start-up Ecosystem", "Business Strategy", "Funding", "Venture Capital", "Start-up Leadership", "Westerwelle Young Founders Programme", "Financial Inclusion Lab", "Startup Leadership Program", "Bharat Inclusion Initiative", "API Development", "Cloud Infrastructure"]
 draft: false
 slug: "startups"
 showDate: false
@@ -13,7 +13,8 @@ showTableOfContents: true
 showPagination: false
 ---
 
-Over the last 15 years, I have worked in many startups in varying roles. 
+Dipankar Sarkar has a history of launching and advising tech start-ups, with expertise in blockchain, machine learning, microblogging, and more. Their ventures have attracted investor interest, user engagement, and media attention, showcasing their ability to innovate and lead. Their achievements have been recognized by several prestigious programs, affirming their significant contributions to the technology and entrepreneurial landscape.
+
 ## Founder/co-founder  
 
 * (2021-2022) Boom Labs (Shutdown) - London, UK

@@ -2,9 +2,10 @@
 title: "About"
 date: 2023-06-04
 draft: false
-description: "This is about Dipankar."
+description: "Proven technologist and entrepreneur with expertise in blockchain, machine learning, and web-scale architecture. Known for strategic innovation in technology and business-first, system-oriented strategies. Successful history at Nykaa, Hike, and Boom Protocol. Extensive academic achievements from Arizona State University and the Indian Institute of Technology, Delhi."
+summary: "A seasoned leader in technology with a track record in blockchain, machine learning, and web-scale architecture. Demonstrated successes at Nykaa, Hike, and Boom Protocol. Well-respected in the field with numerous contributions to machine learning conferences and patents."
 slug: "about"
-tags: ["dipankar", "sarkar"]
+tags: ["Seasoned Technologist", "Entrepreneur", "Blockchain Expert", "Machine Learning Specialist", "Web-Scale Architecture", "Nykaa Leadership", "Hike ML Consultant", "Boom Protocol Co-Founder", "Patent Holder", "Python Proficient", "Ruby Developer", "PHP Expert", "MySQL Specialist", "AWS Knowledge", "Solidity Coder", "Rust Developer", "Tensorflow User", "ASU Graduate", "IIT Delhi Alumnus", "Technology Innovation", "Business Strategy"]
 showDate: false
 showAuthor: false
 showReadingTime: false

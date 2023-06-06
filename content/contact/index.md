@@ -2,9 +2,10 @@
 title: "Contact"
 date: 2023-06-04
 draft: false
-description: "This is about Dipankar."
+description: "Dipankar, a versatile digital business consultant, provides extensive services to facilitate business growth and scaling. With a rich background in various tech sectors, he can assist with team building, product launching, early-stage fundraising, business negotiation, tech and process scaling, architecture and team process optimisation, and data engineering. He is also keen on high impact roles in Product & Engineering, business collaborations, tackling complex tech problems, and research collaborations. He has a proven record of working with successful companies at all stages."
+summary: "Dipankar is a seasoned digital business consultant with expertise in a wide range of tech domains. He provides services such as team building, product launching, early-stage fundraising, and tech scaling. With an impressive track record, he seeks meaningful collaborations and high impact roles in Product & Engineering. Dipankar is interested in solving intriguing technology problems and establishing research collaborations with innovative companies."
 slug: "contact"
-tags: ["dipankar", "sarkar"]
+tags: ["Digital Business Consultant", "Product Launch", "Team Building", "Early-stage Fundraising", "Business Negotiation", "Technology Scaling", "Process Optimization", "Data Engineering", "Product & Engineering", "Business Collaboration", "Tech Problems", "Research Collaboration", "E-commerce", "HR Tech", "AdTech", "MarTech", "Social Networks", "Open Source", "Gaming", "Payment", "Blockchain"]
 showDate: false
 showAuthor: false
 showReadingTime: false
