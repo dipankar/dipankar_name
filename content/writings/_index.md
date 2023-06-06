@@ -1,7 +1,6 @@
 ---
 title: "Writings"
-description: "Learn how to use Congo and its features."
-
+description: "These are the writing of Dipankar Sarkar"
 cascade:
   showDate: false
   showAuthor: false

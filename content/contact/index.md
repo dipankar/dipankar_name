@@ -6,6 +6,7 @@ description: "Dipankar, a versatile digital business consultant, provides extens
 summary: "Dipankar is a seasoned digital business consultant with expertise in a wide range of tech domains. He provides services such as team building, product launching, early-stage fundraising, and tech scaling. With an impressive track record, he seeks meaningful collaborations and high impact roles in Product & Engineering. Dipankar is interested in solving intriguing technology problems and establishing research collaborations with innovative companies."
 slug: "contact"
 tags: ["Digital Business Consultant", "Product Launch", "Team Building", "Early-stage Fundraising", "Business Negotiation", "Technology Scaling", "Process Optimization", "Data Engineering", "Product & Engineering", "Business Collaboration", "Tech Problems", "Research Collaboration", "E-commerce", "HR Tech", "AdTech", "MarTech", "Social Networks", "Open Source", "Gaming", "Payment", "Blockchain"]
+keywords: ["Digital Business Consultant", "Product Launch", "Team Building", "Early-stage Fundraising", "Business Negotiation", "Technology Scaling", "Process Optimization", "Data Engineering", "Product & Engineering", "Business Collaboration", "Tech Problems", "Research Collaboration", "E-commerce", "HR Tech", "AdTech", "MarTech", "Social Networks", "Open Source", "Gaming", "Payment", "Blockchain"]
 showDate: false
 showAuthor: false
 showReadingTime: false

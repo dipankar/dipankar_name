@@ -6,13 +6,12 @@ description: "Proven technologist and entrepreneur with expertise in blockchain,
 summary: "A seasoned leader in technology with a track record in blockchain, machine learning, and web-scale architecture. Demonstrated successes at Nykaa, Hike, and Boom Protocol. Well-respected in the field with numerous contributions to machine learning conferences and patents."
 slug: "about"
 tags: ["Seasoned Technologist", "Entrepreneur", "Blockchain Expert", "Machine Learning Specialist", "Web-Scale Architecture", "Nykaa Leadership", "Hike ML Consultant", "Boom Protocol Co-Founder", "Patent Holder", "Python Proficient", "Ruby Developer", "PHP Expert", "MySQL Specialist", "AWS Knowledge", "Solidity Coder", "Rust Developer", "Tensorflow User", "ASU Graduate", "IIT Delhi Alumnus", "Technology Innovation", "Business Strategy"]
+keywords: ["Seasoned Technologist", "Entrepreneur", "Blockchain Expert", "Machine Learning Specialist", "Web-Scale Architecture", "Nykaa Leadership", "Hike ML Consultant", "Boom Protocol Co-Founder", "Patent Holder", "Python Proficient", "Ruby Developer", "PHP Expert", "MySQL Specialist", "AWS Knowledge", "Solidity Coder", "Rust Developer", "Tensorflow User", "ASU Graduate", "IIT Delhi Alumnus", "Technology Innovation", "Business Strategy"]
 showDate: false
 showAuthor: false
 showReadingTime: false
 showEdit: false
 ---
-A seasoned technologist and entrepreneur, I bring extensive experience in cutting-edge fields including blockchain, machine learning, and web-scale architecture. My career is characterized by relentless innovation, strategic thinking, and the ability to quickly adapt to new technological trends. 
-
 Starting my professional journey in India, I played pivotal roles as a Principal Engineering Consultant at Nykaa and a Machine Learning Consultant at Hike. I successfully led teams on various mission-critical projects, such as building core revenue-driving platforms at Nykaa and developing sophisticated machine learning models at Hike. My achievements during this time include the creation of an in-memory SQL-based Cart service, the real-time ingestion framework using AWS Lambda, and the Hikemoji Avatar. 
 
 While at Nykaa, my team and I were instrumental in the company's transformation from a vertical e-commerce platform to a socially driven commerce entity. This, along with my experience in driving significant revenue increases, demonstrates my acumen for business-first, system-oriented strategies and solutions.
