@@ -1,10 +1,10 @@
 ---
-title: "Experience"
+title: "Industry"
 date: 2023-06-04
 description: "Experience"
 tags: ["Dipankar","Sarkar"]
 draft: false
-slug: "experience"
+slug: "industry"
 showDate: false
 showAuthor: false
 showReadingTime: false

@@ -13,7 +13,8 @@ showTableOfContents: true
 showPagination: false
 ---
 
-## Founder
+Over the last 15 years, I have worked in many startups in varying roles. 
+## Founder/co-founder  
 
 * (2021-2022) Boom Labs (Shutdown) - London, UK
   * We were building a multi-chain API to bring Web2 and mobile applications on-chain.

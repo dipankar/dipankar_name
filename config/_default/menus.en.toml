@@ -21,8 +21,8 @@
   weight = 20
 
 [[main]]
-  name = "Experience"
-  pageRef = "experience"
+  name = "Industry"
+  pageRef = "industry"
   weight = 35
 
 [[main]]
@@ -31,14 +31,14 @@
   weight = 30
 
 [[main]]
-  name = "Blog"
-  url = "https://www.desinerd.com"
-  weight = 50
+  name = "Writings"
+  pageRef = "writings"
+  weight = 40
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 40
+  weight = 50
 
 #[[main]]
 #  name = "Categories"
@@ -60,7 +60,7 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
