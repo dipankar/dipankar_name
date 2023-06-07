@@ -40,6 +40,15 @@
   pageRef = "contact"
   weight = 50
 
+[[main]]
+  name = "Twitter"
+  url = "https://twitter.com/dipankarsarkar"
+  weight = 70
+  [main.params]
+    icon = "twitter"
+    showName = false
+    target = "_blank"
+
 #[[main]]
 #  name = "Categories"
 #  pageRef = "categories"
